@@ -15,10 +15,10 @@ Everything was / will be designed using Solidworks. Onshape may be used for gear
 
 BOM:
 
-Screws (m4 and m3)
-ESC
-Motor
-Battery
-Wheels
-Bearings
-UV joints
+- Screws (m4 and m3)
+- ESC
+- Motor
+- Battery
+- Wheels
+- Bearings
+- UV joints
