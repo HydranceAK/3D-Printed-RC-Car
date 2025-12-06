@@ -4,14 +4,14 @@ Everything was / will be designed using Solidworks. Onshape may be used for gear
 
 **Features of the car:**
 
-FWD 
-60km/h
-Full independed suspension
-Everything but electronics, screws, bearings, and shocks are 3d printed
-120A ESC
-3s Lipo
-2850kv 3060 brushless motor
-TPU + PETG parts.
+- FWD 
+- 60km/h
+- Full independed suspension
+- Everything but electronics, screws, bearings, and shocks are 3d printed
+- 120A ESC
+- 3s Lipo
+- 2850kv 3060 brushless motor
+- TPU + PETG parts.
 
 BOM:
 
