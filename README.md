@@ -2,6 +2,8 @@ This is a 3d printed RC car im creating for scratch. Ill design everything in CA
 
 Everything was / will be designed using Solidworks. Onshape may be used for gears.
 
+Im making this project because I really want a fast and powerful RC Car like traxxas, but for cheaper :D.
+
 **Features of the car:**
 
 - FWD 
