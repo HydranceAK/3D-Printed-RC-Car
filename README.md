@@ -19,11 +19,20 @@ BOM:
 
 - Screws (m4 and m3)
 - ESC
-- Motor
 - Battery
 - Wheels
+- 3s Lipo
+
+Other BOM that I already have from previous projects
+
+- Motor
+- UV Joints
 - Bearings
-- UV joints
+- Servo Motor
+- Shocks
+- Wires
+- Soldering Machine
+- 3d Printer
 
 <img width="1029" height="643" alt="image" src="https://github.com/user-attachments/assets/36646dc5-51cd-4f9c-b63c-df1372eff3b3" />
 <img width="1029" height="643" alt="image" src="https://github.com/user-attachments/assets/6dce2c90-9144-4901-a4cb-28e274d943a0" />
