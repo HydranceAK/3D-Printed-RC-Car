@@ -1,40 +1,104 @@
-This is a 3d printed RC car im creating for scratch. Ill design everything in CAD, print everything on my Bambu lab A1, and purchase the nessecary compoenents from online.
+**3D Printed RC Car**
 
-Everything was / will be designed using Solidworks. Onshape may be used for gears.
 
-Im making this project because I really want a fast and powerful RC Car like traxxas, but for cheaper :D.
 
-**Features of the car:**
+A high-performance, fully custom 3D-printed RC car built for speed, durability, and accessibility.
 
-- FWD 
-- 60km/h
-- Full independed suspension
-- Everything but electronics, screws, bearings, and shocks are 3d printed
-- 120A ESC
-- 3s Lipo
-- 2850kv 3060 brushless motor
-- TPU + PETG parts.
+Designed and engineered by ***Hydrance***.
 
-BOM:
 
-- Screws (m4 and m3)
-- ESC
-- Battery
-- Wheels
-- 3s Lipo
 
-Other BOM that I already have from previous projects
 
-- Motor
-- UV Joints
-- Bearings
-- Servo Motor
-- Shocks
-- Wires
-- Soldering Machine
-- 3d Printer
 
-<img width="1029" height="643" alt="image" src="https://github.com/user-attachments/assets/36646dc5-51cd-4f9c-b63c-df1372eff3b3" />
-<img width="1029" height="643" alt="image" src="https://github.com/user-attachments/assets/6dce2c90-9144-4901-a4cb-28e274d943a0" />
-<img width="1253" height="739" alt="image" src="https://github.com/user-attachments/assets/b2449071-fbc5-4373-8bfc-a9f050a274e5" />
-<img width="1166" height="444" alt="image" src="https://github.com/user-attachments/assets/b3a4f459-9466-4938-9d83-5057a6c51a9e" />
+**Features**
+
+
+
+
+
+* 4WD Drivetrain – Enhanced traction and stability on all terrains
+
+
+
+* Top Speed: ~60 km/h – High-speed performance
+
+
+
+* 90% 3D-Printed Build – Lightweight, modular, and highly customizable
+
+
+
+* Independent Suspension – Smooth handling and improved off-road control
+
+
+
+* Durable Materials
+
+
+
+* TPU parts for flexible components (tires, dampening mounts, impact zones)
+
+
+
+* PETG parts for strong structural elements (chassis, arms, mounts)
+
+
+
+* Affordable Build – Total estimated cost ~$330 (without screws \& filament $270)
+
+
+
+
+
+
+
+**Materials \& Printing Notes**
+
+
+
+
+
+TPU recommended for flexible and shock-absorption components
+
+
+
+PETG recommended for strength, heat resistance, and rigidity
+
+
+
+Everything can be printed on Bambu Lab a1 (0.4 or 0.6 nozzle)
+
+
+
+Hardware, electronics, and drivetrain components sourced Amazon and Aliexpress
+
+
+
+**⚠️ Disclaimer**
+
+
+
+This project is provided for personal use only.
+
+You may not sell, redistribute, upload, or copy this design without direct permission from the creator.
+
+
+
+I am not responsible for any damage, injury, or misuse involving this design, its assembly, or its operation.
+
+Operate RC vehicles safely and responsibly.
+
+
+
+**📬 Contact**
+
+
+
+For permissions, questions, or collaboration, contact me at:
+
+
+
+Email: abdusamaku@gmail.com
+
+YouTube: https://youtube.com/@HydranceYT
+
