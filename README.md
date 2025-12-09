@@ -108,3 +108,10 @@ Email: abdusamaku@gmail.com
 
 YouTube: https://youtube.com/@HydranceYT
 
+
+
+<img width="920" height="606" alt="Screenshot 2025-12-07 130823" src="https://github.com/user-attachments/assets/4277ea7f-4d0c-44fb-830a-7d1cf6a4daa6" />
+
+<img width="1066" height="337" alt="Screenshot 2025-12-07 164532" src="https://github.com/user-attachments/assets/aea34d4c-fdce-4cf3-b922-7cd64fec1328" />
+
+<img width="780" height="771" alt="Screenshot 2025-12-07 164554" src="https://github.com/user-attachments/assets/6f07d13b-8471-4266-8a43-4e0ead3e00da" />
