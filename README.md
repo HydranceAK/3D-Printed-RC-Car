@@ -45,6 +45,9 @@ Designed and engineered by ***Hydrance***.
 * PETG parts for strong structural elements (chassis, arms, mounts)
 
 
+* PA6-CF highly recommended but not nessecary for gears and bottom suspension arms. These peices undergo extreme stress and may break if you drive rough.  
+
+
 
 * Affordable Build – Total estimated cost ~$330 (without screws \& filament $270)
 
@@ -116,3 +119,4 @@ YouTube: https://youtube.com/@HydranceYT
 <img width="1059" height="748" alt="Screenshot 2026-01-05 154402" src="https://github.com/user-att![Uploading Screenshot 2026-01-04 203615.png…]()
 achments/assets/d564d851-1671-4b8a-ba00-2d6afe8e8cc7" />
 <img width="1189" height="591" alt="Screenshot 2026-01-04 203602" src="https://github.com/user-attachments/assets/f1e88c2a-2164-4641-a949-ec1faa4d5402" />
+
