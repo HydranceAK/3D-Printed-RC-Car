@@ -2,6 +2,7 @@
 
 A high-performance, fully custom 3D-printed RC car.
 
+video: https://youtu.be/6iFeAaE8pu4
 
 
 Designed and engineered by ***Hydrance***.
@@ -118,6 +119,7 @@ YouTube: https://youtube.com/@HydranceYT
 achments/assets/d564d851-1671-4b8a-ba00-2d6afe8e8cc7" />
 <img width="1189" height="591" alt="Screenshot 2026-01-04 203602" src="https://github.com/user-attachments/assets/f1e88c2a-2164-4641-a949-ec1faa4d5402" />
 ![WhatsApp Image 2026-01-09 at 2 21 19 PM](https://github.com/user-attachments/assets/00704878-8cc6-4bb2-916f-7bc3ae282a44)
+
 
 
 
